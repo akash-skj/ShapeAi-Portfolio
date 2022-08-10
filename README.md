@@ -1,2 +1,2 @@
 # ShapeAi-Portfolio
-Preview : https://xkxshs.github.io/ShapeAi-Portfolio/
+Preview : [Portfolio](https://akash-skj.github.io/ShapeAi-Portfolio/)
